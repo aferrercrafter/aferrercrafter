@@ -4,10 +4,10 @@
   <img align="left" alt="Arnaldo | Linkedin" width="20px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/twitter.svg" />
 </a>
 <a href="https://twitter.com/aferrercrafter">
-  <img align="left" alt="Arnaldo | Twitter" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/twitter.svg" />
+  <img align="left" alt="Arnaldo | Twitter" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/aferrercrafter">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/hackerrank.svg.svg" />
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/hackerrank.svg" />
 </a>
 
 <br />
