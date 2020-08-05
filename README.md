@@ -7,7 +7,10 @@
   <img align="left" alt="Arnaldo | Twitter" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/aferrercrafter">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/hackerrank.svg" />
+  <img align="left" alt="Anurag's HackerRank" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/hackerrank.svg" />
+</a>
+<a href="https://www.codewars.com/users/aferrercrafter">
+  <img align="left" alt="Arnaldo's Codewars" width="21px" src="https://raw.githubusercontent.com/aferrercrafter/aferrercrafter/master/assets/codewars.svg" />
 </a>
 
 <br />
