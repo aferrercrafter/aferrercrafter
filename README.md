@@ -18,8 +18,7 @@
 
 Hi, I'm Arnaldo Corzo, a Software Ing. from Cuba/Argentina.
 
-- 🔭 I’m currently improving my Unity skills on [TowerDefense](https://github.com/aferrercrafter/unity-tower-defense-learn)
-- 🌱 I’m currently learning React [React](https://github.com/aferrercrafter/react-ecommerce)
+- 🌱 I’m currently improving my skills on [Microservices](https://github.com/aferrercrafter/dotnet/tree/master/microservices)
 
 **Languages and Tools:**  
 
